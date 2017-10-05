@@ -24,12 +24,12 @@
 * **Success Response:**
 
   * **Code:** 200 <br />
-    **Content:** `{ id : 12, name : "Michael Bloom" }`
+    **Content:** `[See Sample Below]`
  
 * **Error Response:**
 
   * **Code:** 404 NOT FOUND <br />
-    **Content:** `{ error : "User doesn't exist" }`
+  
 
   
 
